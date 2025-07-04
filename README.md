@@ -7,7 +7,7 @@ This web application is designed to help students efficiently manage their finan
 ## 🚀 Live Demo
 
 🔗 **Try it now**: [https://elaborate-pothos-02b446.netlify.app/]  
-*(Replace with your actual live link)*
+
 
 ---
 
