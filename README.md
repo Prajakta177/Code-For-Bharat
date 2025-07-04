@@ -25,7 +25,7 @@ This web application is designed to help students efficiently manage their finan
 
 | Dashboard | Analytics |
 |-----------|-----------|
-| ![Dashboard](screenshots/dashboard.png) | ![Analytics](screenshots/analytics.png) |
+| ![Dashboard](Dashboard.png) | ![Analytics](Analytics.png) |
 
 ---
 
