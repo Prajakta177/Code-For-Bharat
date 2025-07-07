@@ -58,7 +58,7 @@ Dashboard | Add Expense | Analytics | Budgets | Savings | Insights | Settings
 
 Watch the full walkthrough of BudgetBuddy here:
 
-[![BudgetBuddy Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+[![BudgetBuddy Demo]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)](https://youtu.be/zyN8Calr0Hw?feature=shared)
 
 > 📺 Click the thumbnail above to watch the video on YouTube.
 
