@@ -48,10 +48,10 @@ Dashboard | Add Expense | Analytics | Budgets | Savings | Insights | Settings
 | Page           | Screenshot                          |
 |----------------|-------------------------------------|
 | Dashboard      | ![Dashboard](Screenshots/Dashboard.png) |
-| Add Expense    | ![Add Expense](Screenshots/Expense.png) |
+| Add Expense    | ![Add Expense](Screenshots/Expenses.png) |
 | Analytics      | ![Analytics](Screenshots/Analytics.png) |
 | Budgets        | ![Budgets](Screenshots/Budget.png) |
-| Savings        | ![Savings](Screenshots/Savings.png) |
+| Savings        | ![Savings](Screenshots/Saving.png) |
 
 
 ## 🎥 Demo Video
