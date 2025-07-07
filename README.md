@@ -54,11 +54,9 @@ Dashboard | Add Expense | Analytics | Budgets | Savings | Insights | Settings
 | Savings        | ![Savings](Screenshots/Saving.png) |
 
 
-## 🎥 Demo Video
+📽️ **Watch Demo Video**
 
-Watch the full walkthrough of BudgetBuddy here:
-
-[![BudgetBuddy Demo](https://youtu.be/zyN8Calr0Hw?feature=shared)
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Video-red?logo=youtube)](https://youtu.be/zyN8Calr0Hw)
 
 > 📺 Click the thumbnail above to watch the video on YouTube.
 
